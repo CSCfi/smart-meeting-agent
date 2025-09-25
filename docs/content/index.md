@@ -11,12 +11,15 @@ source .venv/bin/activate
 pip install -r docs/requirements.txt
 make -C docs html
 open docs/_build/html/index.html
+
+{toctree}`````
 :maxdepth: 2
 :hidden:
 
 usage
 api
 devnotes
+```````
 Usage
 API reference
 Developer notes
