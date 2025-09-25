@@ -20,9 +20,7 @@ usage
 api
 devnotes
 ```````
-Usage
-API reference
-Developer notes
+
 
 Notes:
 - The `{toctree}` part **must be inside** a fenced code block starting with ```` ```{toctree} ```` and ending with ```` ``` ````.
