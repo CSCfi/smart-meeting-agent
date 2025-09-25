@@ -12,7 +12,7 @@ pip install -r docs/requirements.txt
 make -C docs html
 open docs/_build/html/index.html
 
-`````
+```````
 :maxdepth: 2
 :hidden:
 
