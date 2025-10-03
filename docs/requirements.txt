@@ -4,3 +4,8 @@ furo>=2024.8.6
 sphinx-autobuild>=2024.9
 sphinx-copybutton>=0.5
 sphinxcontrib-mermaid>=0.9
+sphinx
+myst-parser
+sphinx-rtd-theme
+sphinx-copybutton
+sphinx-design
