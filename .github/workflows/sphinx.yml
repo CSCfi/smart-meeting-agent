@@ -2,7 +2,7 @@ name: Build and deploy Sphinx to GitHub Pages
 
 on:
   push:
-    branches: [ docs-site ]   # change to 'master' after merging the branch
+    branches: [ master ]   # change to 'master' after merging the branch
   workflow_dispatch:
 
 permissions:
