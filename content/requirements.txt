@@ -1,0 +1,4 @@
+faster-whisper
+python-dotenv
+requests
+torch
